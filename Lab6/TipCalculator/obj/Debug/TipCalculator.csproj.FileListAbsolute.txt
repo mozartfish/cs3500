@@ -1,0 +1,10 @@
+C:\Users\Pranav\Source\Repos\u1136324\Lab6\TipCalculator\bin\Debug\TipCalculator.exe.config
+C:\Users\Pranav\Source\Repos\u1136324\Lab6\TipCalculator\bin\Debug\TipCalculator.exe
+C:\Users\Pranav\Source\Repos\u1136324\Lab6\TipCalculator\bin\Debug\TipCalculator.pdb
+C:\Users\Pranav\Source\Repos\u1136324\Lab6\TipCalculator\obj\Debug\TipCalculator.csprojAssemblyReference.cache
+C:\Users\Pranav\Source\Repos\u1136324\Lab6\TipCalculator\obj\Debug\TipCalculator.Form1.resources
+C:\Users\Pranav\Source\Repos\u1136324\Lab6\TipCalculator\obj\Debug\TipCalculator.Properties.Resources.resources
+C:\Users\Pranav\Source\Repos\u1136324\Lab6\TipCalculator\obj\Debug\TipCalculator.csproj.GenerateResource.cache
+C:\Users\Pranav\Source\Repos\u1136324\Lab6\TipCalculator\obj\Debug\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Pranav\Source\Repos\u1136324\Lab6\TipCalculator\obj\Debug\TipCalculator.exe
+C:\Users\Pranav\Source\Repos\u1136324\Lab6\TipCalculator\obj\Debug\TipCalculator.pdb

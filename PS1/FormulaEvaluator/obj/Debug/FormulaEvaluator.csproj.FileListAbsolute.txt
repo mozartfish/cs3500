@@ -1,0 +1,6 @@
+C:\Users\Pranav\Source\Repos\u1136324\PS1\FormulaEvaluator\bin\Debug\FormulaEvaluator.dll
+C:\Users\Pranav\Source\Repos\u1136324\PS1\FormulaEvaluator\bin\Debug\FormulaEvaluator.pdb
+C:\Users\Pranav\Source\Repos\u1136324\PS1\FormulaEvaluator\obj\Debug\FormulaEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\Pranav\Source\Repos\u1136324\PS1\FormulaEvaluator\obj\Debug\FormulaEvaluator.dll
+C:\Users\Pranav\Source\Repos\u1136324\PS1\FormulaEvaluator\obj\Debug\FormulaEvaluator.pdb
+C:\Users\Pranav\Source\Repos\u1136324\PS1\FormulaEvaluator\obj\Debug\FormulaEvaluator.csprojAssemblyReference.cache

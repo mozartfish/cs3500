@@ -1,0 +1,7 @@
+C:\Users\Pranav\Source\Repos\u1136324\PS3\Formula\bin\Debug\Formula.dll
+C:\Users\Pranav\Source\Repos\u1136324\PS3\Formula\bin\Debug\Formula.pdb
+C:\Users\Pranav\Source\Repos\u1136324\PS3\Formula\obj\Debug\Formula.csprojAssemblyReference.cache
+C:\Users\Pranav\Source\Repos\u1136324\PS3\Formula\obj\Debug\Formula.csproj.CoreCompileInputs.cache
+C:\Users\Pranav\Source\Repos\u1136324\PS3\Formula\obj\Debug\Formula.dll
+C:\Users\Pranav\Source\Repos\u1136324\PS3\Formula\obj\Debug\Formula.pdb
+C:\Users\Pranav\Source\Repos\u1136324\PS3\Formula\bin\Debug\Formula.xml

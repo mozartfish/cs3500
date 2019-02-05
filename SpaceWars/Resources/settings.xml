@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SpaceSettings>
+
+  <UniverseSize>750</UniverseSize>
+
+  <MSPerFrame>16</MSPerFrame>
+
+  <FramesPerShot>6</FramesPerShot>
+
+  <RespawnRate>300</RespawnRate>
+
+  <ShipHP>5</ShipHP>
+
+  <ProjectileVelocity>15</ProjectileVelocity>
+
+  <EngineStrength>.08</EngineStrength>
+
+  <TurningRate>2</TurningRate>
+
+  <ShipRadius>20</ShipRadius>
+
+  <StarRadius>35</StarRadius>
+
+  <ExtraContent>deenabled</ExtraContent>
+
+  <Star>
+
+    <x>0</x>
+
+    <y>0</y>
+
+    <mass>0.01</mass>
+
+  </Star>
+
+</SpaceSettings>

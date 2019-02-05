@@ -1,0 +1,2 @@
+C:\Users\Pranav\Source\Repos\u1120386\SpaceWars\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+C:\Users\Pranav\Source\Repos\u1120386\SpaceWars\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache

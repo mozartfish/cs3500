@@ -1,0 +1,6 @@
+C:\Users\Pranav\Source\repos\u1136324\Lab6\UITests\bin\Debug\UITests.dll
+C:\Users\Pranav\Source\repos\u1136324\Lab6\UITests\bin\Debug\UITests.pdb
+C:\Users\Pranav\Source\repos\u1136324\Lab6\UITests\obj\Debug\UITests.csprojAssemblyReference.cache
+C:\Users\Pranav\Source\repos\u1136324\Lab6\UITests\obj\Debug\UITests.csproj.CoreCompileInputs.cache
+C:\Users\Pranav\Source\repos\u1136324\Lab6\UITests\obj\Debug\UITests.dll
+C:\Users\Pranav\Source\repos\u1136324\Lab6\UITests\obj\Debug\UITests.pdb

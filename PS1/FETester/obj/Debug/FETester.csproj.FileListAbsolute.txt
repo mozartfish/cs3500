@@ -1,0 +1,10 @@
+C:\Users\Pranav\Source\Repos\u1136324\PS1\FETester\bin\Debug\FETester.exe.config
+C:\Users\Pranav\Source\Repos\u1136324\PS1\FETester\bin\Debug\FETester.exe
+C:\Users\Pranav\Source\Repos\u1136324\PS1\FETester\bin\Debug\FETester.pdb
+C:\Users\Pranav\Source\Repos\u1136324\PS1\FETester\bin\Debug\FormulaEvaluator.dll
+C:\Users\Pranav\Source\Repos\u1136324\PS1\FETester\bin\Debug\FormulaEvaluator.pdb
+C:\Users\Pranav\Source\Repos\u1136324\PS1\FETester\obj\Debug\FETester.csprojAssemblyReference.cache
+C:\Users\Pranav\Source\Repos\u1136324\PS1\FETester\obj\Debug\FETester.csproj.CoreCompileInputs.cache
+C:\Users\Pranav\Source\Repos\u1136324\PS1\FETester\obj\Debug\FETester.csproj.CopyComplete
+C:\Users\Pranav\Source\Repos\u1136324\PS1\FETester\obj\Debug\FETester.exe
+C:\Users\Pranav\Source\Repos\u1136324\PS1\FETester\obj\Debug\FETester.pdb

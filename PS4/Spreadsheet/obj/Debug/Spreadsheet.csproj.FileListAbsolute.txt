@@ -1,0 +1,12 @@
+C:\Users\Pranav\Source\repos\u1136324\PS4\Spreadsheet\bin\Debug\Spreadsheet.dll
+C:\Users\Pranav\Source\repos\u1136324\PS4\Spreadsheet\bin\Debug\Spreadsheet.pdb
+C:\Users\Pranav\Source\repos\u1136324\PS4\Spreadsheet\bin\Debug\DependencyGraph.dll
+C:\Users\Pranav\Source\repos\u1136324\PS4\Spreadsheet\bin\Debug\Formula.dll
+C:\Users\Pranav\Source\repos\u1136324\PS4\Spreadsheet\bin\Debug\DependencyGraph.xml
+C:\Users\Pranav\Source\repos\u1136324\PS4\Spreadsheet\bin\Debug\Formula.xml
+C:\Users\Pranav\Source\repos\u1136324\PS4\Spreadsheet\obj\Debug\Spreadsheet.csprojAssemblyReference.cache
+C:\Users\Pranav\Source\repos\u1136324\PS4\Spreadsheet\obj\Debug\Spreadsheet.csproj.CoreCompileInputs.cache
+C:\Users\Pranav\Source\repos\u1136324\PS4\Spreadsheet\obj\Debug\Spreadsheet.csproj.CopyComplete
+C:\Users\Pranav\Source\repos\u1136324\PS4\Spreadsheet\obj\Debug\Spreadsheet.dll
+C:\Users\Pranav\Source\repos\u1136324\PS4\Spreadsheet\obj\Debug\Spreadsheet.pdb
+C:\Users\Pranav\Source\Repos\u1136324\PS4\Spreadsheet\bin\Debug\Spreadsheet.xml

@@ -1,0 +1,15 @@
+C:\Users\Pranav\Source\Repos\u1120386\SpaceWars\Controllers\bin\Release\Controllers.dll
+C:\Users\Pranav\Source\Repos\u1120386\SpaceWars\Controllers\bin\Release\Controllers.pdb
+C:\Users\Pranav\Source\Repos\u1120386\SpaceWars\Controllers\bin\Release\ClassLibrary1.dll
+C:\Users\Pranav\Source\Repos\u1120386\SpaceWars\Controllers\bin\Release\Newtonsoft.Json.dll
+C:\Users\Pranav\Source\Repos\u1120386\SpaceWars\Controllers\bin\Release\WorldModel.dll
+C:\Users\Pranav\Source\Repos\u1120386\SpaceWars\Controllers\bin\Release\Vector2D.dll
+C:\Users\Pranav\Source\Repos\u1120386\SpaceWars\Controllers\bin\Release\ClassLibrary1.pdb
+C:\Users\Pranav\Source\Repos\u1120386\SpaceWars\Controllers\bin\Release\WorldModel.pdb
+C:\Users\Pranav\Source\Repos\u1120386\SpaceWars\Controllers\bin\Release\Newtonsoft.Json.xml
+C:\Users\Pranav\Source\Repos\u1120386\SpaceWars\Controllers\bin\Release\Vector2D.pdb
+C:\Users\Pranav\Source\Repos\u1120386\SpaceWars\Controllers\obj\Release\Controllers.csprojAssemblyReference.cache
+C:\Users\Pranav\Source\Repos\u1120386\SpaceWars\Controllers\obj\Release\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Pranav\Source\Repos\u1120386\SpaceWars\Controllers\obj\Release\Controllers.csproj.CopyComplete
+C:\Users\Pranav\Source\Repos\u1120386\SpaceWars\Controllers\obj\Release\Controllers.dll
+C:\Users\Pranav\Source\Repos\u1120386\SpaceWars\Controllers\obj\Release\Controllers.pdb

@@ -1,0 +1,9 @@
+C:\Users\Pranav\Source\Repos\u0960779\PS6\SpreadsheetPanel\bin\Debug\SpreadsheetPanel.XML
+C:\Users\Pranav\Source\Repos\u0960779\PS6\SpreadsheetPanel\bin\Debug\SpreadsheetPanel.dll
+C:\Users\Pranav\Source\Repos\u0960779\PS6\SpreadsheetPanel\bin\Debug\SpreadsheetPanel.pdb
+C:\Users\Pranav\Source\Repos\u0960779\PS6\SpreadsheetPanel\obj\Debug\SpreadsheetPanel.csprojAssemblyReference.cache
+C:\Users\Pranav\Source\Repos\u0960779\PS6\SpreadsheetPanel\obj\Debug\SS.Properties.Resources.resources
+C:\Users\Pranav\Source\Repos\u0960779\PS6\SpreadsheetPanel\obj\Debug\SpreadsheetPanel.csproj.GenerateResource.cache
+C:\Users\Pranav\Source\Repos\u0960779\PS6\SpreadsheetPanel\obj\Debug\SpreadsheetPanel.csproj.CoreCompileInputs.cache
+C:\Users\Pranav\Source\Repos\u0960779\PS6\SpreadsheetPanel\obj\Debug\SpreadsheetPanel.dll
+C:\Users\Pranav\Source\Repos\u0960779\PS6\SpreadsheetPanel\obj\Debug\SpreadsheetPanel.pdb
